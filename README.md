@@ -1,5 +1,5 @@
 ## Hi, I'm Areg! 👋
-###iOS developer and environmental engineer.
+### iOS developer and environmental engineer.
 
 🌱 Graduated from the Moscow Aviation Institute
 
