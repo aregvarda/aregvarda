@@ -1,4 +1,15 @@
-### Hi, I'm Areg! 👋
+## Hi, I'm Areg! 👋
+iOS developer and environmental engineer.
 
-    Hi, my name is Areg and I’m an IOS application developer. Graduated from the Moscow Aviation Institute with a degree in Environmental Safety in Industry (bachelor's degree) and in Control Systems, Informatics and Power Engineering (Master's degree).
+🌱 Graduated from the Moscow Aviation Institute
 
+🔭 My goal is to visit all countries of the world
+
+⚡ My interests: aviation and world history, creative writing, video games, AI, cybernetics
+
+📫 Feel free to reach me:
+
+Email aregvarda@gmail.com
+Twitter: [@aregvardani](https://twitter.com/aregvardani)
+Linkedin: [@areg-vardanian](https://www.linkedin.com/in/areg-vardanian-b21b34225)
+Habr: [@aregv](https://career.habr.com/aregv)
