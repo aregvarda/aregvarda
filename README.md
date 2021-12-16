@@ -10,6 +10,10 @@ iOS developer and environmental engineer.
 📫 Feel free to reach me:
 
 Email aregvarda@gmail.com
+
 Twitter: [@aregvardani](https://twitter.com/aregvardani)
-Linkedin: [@areg-vardanian](https://www.linkedin.com/in/areg-vardanian-b21b34225)
+
 Habr: [@aregv](https://career.habr.com/aregv)
+
+Linkedin: [@areg-vardanian](https://www.linkedin.com/in/areg-vardanian-b21b34225)
+
