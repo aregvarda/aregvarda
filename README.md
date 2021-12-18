@@ -12,7 +12,7 @@
 <a href="https://open.spotify.com/playlist/2L0AQS408a0bGKsYDEWsBx?si=1bb340613a3446e3">
   <img align="left" alt="Areg's Spotify" width="24px" src="https://www.freeiconspng.com/uploads/spotify-icon-0.png" />
 </a>
-<a href="aregvarda@gmail.com">
+<a href=[aregvarda@gmail.com]>
   <img align="left" alt="Areg's Gmail" width="24px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />
 </a>
 <a href="https://github.com/aregvarda">
