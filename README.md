@@ -13,7 +13,7 @@
   <img align="left" alt="Areg's Spotify" width="24px" src="https://www.freeiconspng.com/uploads/spotify-icon-0.png" />
 </a>
 <a href="aregvarda@gmail.com">
-  <img align="left" alt="Areg's Gmail" width="22px" src="https://w7.pngwing.com/pngs/376/601/png-transparent-gmail-logo-inbox-by-gmail-icon-email-google-contacts-gmail-logo-angle-text-heart-thumbnail.png" />
+  <img align="left" alt="Areg's Gmail" width="24px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />
 </a>
 <a href="https://github.com/aregvarda">
   <img align="left" alt="Areg's Counter" src="https://visitor-badge.glitch.me/badge?page_id=aregvarda.aregvarda" />
