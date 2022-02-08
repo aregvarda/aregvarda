@@ -6,7 +6,7 @@
 <a href="https://twitter.com/aregvardani">
   <img align="left" alt="Areg's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/areg-vardanian-b21b34225">
+<a href="https://www.linkedin.com/in/areg-vardanian/">
   <img align="left" alt="Areg's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/playlist/2L0AQS408a0bGKsYDEWsBx?si=1bb340613a3446e3">
