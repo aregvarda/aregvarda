@@ -1,27 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://career.habr.com/aregv">
-  <img align="left" alt="Areg's Habr" width="24px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/habr_logo_icon_145210.png" />
-</a>
-<a href="https://twitter.com/aregvardani">
-  <img align="left" alt="Areg's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/areg-vardanian/">
-  <img align="left" alt="Areg's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/playlist/2L0AQS408a0bGKsYDEWsBx?si=1bb340613a3446e3">
-  <img align="left" alt="Areg's Spotify" width="24px" src="https://www.freeiconspng.com/uploads/spotify-icon-0.png" />
-</a>
-<a href="mailto:aregvarda@gmail.com?">
-  <img align="left" alt="Areg's Gmail" width="24px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />
-</a>
-<a href="https://github.com/aregvarda">
-  <img align="left" alt="Areg's Counter" src="https://visitor-badge.glitch.me/badge?page_id=aregvarda.aregvarda" />
-</a>
-
-<br>
-<br>
-
 ```swift
 
 import Foundation
